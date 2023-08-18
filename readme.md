@@ -1,3 +1,7 @@
+# <<<<<<< HEAD
+
+> > > > > > > 1c756bbef4f0010aa7f6648c88ab2b58543561ee
+
 ## Ask Questions About Uploaded Articles
 
 This Python application allows you to load a PDF and utilize natural language to inquire about its contents. The app employs a Language Learning Model (LLM) to generate responses based on the PDF's content. It's important to note that the LLM exclusively addresses questions pertaining to the document.
@@ -10,11 +14,7 @@ Streamlit constructs the GUI, while Langchain interfaces with the LLM.
 
 ## Installation
 
-Clone the repository and install prerequisites:
-
-```bash
-pip install -r requirements.txt
-```
+Clone the repository and install prerequisites.
 
 Don't forget to include your OpenAI API key in the `.env` file.
 
