@@ -1,5 +1,7 @@
 ## Ask Questions About Uploaded Articles
 
+![Local Image](app-screenshot.png)
+
 This Python application allows you to load a PDF and utilize natural language to inquire about its contents. The app employs a Language Learning Model (LLM) to generate responses based on the PDF's content. It's important to note that the LLM exclusively addresses questions pertaining to the document.
 
 ## How it Operates
